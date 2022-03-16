@@ -1,0 +1,11 @@
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\bin\Debug\FormListaReproduccionG2-2022-II.exe.config
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\bin\Debug\FormListaReproduccionG2-2022-II.exe
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\bin\Debug\FormListaReproduccionG2-2022-II.pdb
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.csproj.AssemblyReference.cache
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.csproj.SuggestedBindingRedirects.cache
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2_2022_II.Form1.resources
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2_2022_II.Properties.Resources.resources
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.csproj.GenerateResource.cache
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.csproj.CoreCompileInputs.cache
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.exe
+C:\Users\carme\Source\Repos\FormListaReproduccionG2-2022-II\obj\Debug\FormListaReproduccionG2-2022-II.pdb
